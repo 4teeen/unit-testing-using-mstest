@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySuperBestProject", "MySuperBestProject\MySuperBestProject.csproj", "{B0FF4375-D5E5-4F05-866B-52799DE5DBC0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySuperBestProject.Tests", "MySuperBestProject\MySuperBestProject.Tests\MySuperBestProject.Tests.csproj", "{04CB461C-F07A-4C91-8AF7-1B11B38385BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySuperBestProject.Tests", "MySuperBestProject.Tests\MySuperBestProject.Tests.csproj", "{04CB461C-F07A-4C91-8AF7-1B11B38385BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
